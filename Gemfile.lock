@@ -3,7 +3,7 @@ PATH
   specs:
     hashids_rails (0.0.1)
       hashids
-      rails (~> 4.2.1)
+      rails (>= 4.2.1, < 5.1)
 
 GEM
   remote: https://rubygems.org/
